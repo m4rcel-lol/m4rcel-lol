@@ -17,14 +17,6 @@ I enjoy working on projects that solve real-world problems or push the limits of
 
 ---
 
-## 💡 What I’m Currently Working On
-I'm currently diving into:
-- A **website terminal emulator** that mimics my personal setup, complete with custom commands and features.
-- An **aesthetic Linux command** project to create a personalized 'about me' message for CLI.
-- **Web-based applications** involving unique identification solutions for enhanced user privacy.
-
----
-
 ## 📫 How to Reach Me
 - **Discord**: [m5rcel](discord.com/users/1211021666193506457)
 
