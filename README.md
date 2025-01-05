@@ -5,14 +5,13 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, PHP, Java
-- **Web Development**: HTML, CSS, Node.js, React, MCreator
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Docker, Linux
+- **Web Development**: HTML, CSS
+- **Databases**: MySQL
+- **Tools**: ChatGPT, GitHub
 
 ## 🌍 Projects and Contributions
 I enjoy working on projects that solve real-world problems or push the limits of creativity. Some areas I focus on include:
-- **Web Development**: Building custom user interfaces, creating dynamic and responsive websites.
+- **Web Development**: Making a cool profile projects like GitHub one, Roblox one and Telegram.
 - **Minecraft Site**: I recreated old minecraft site! :D
 - **Data Security**: Working on solutions that enhance data privacy and security.
 
