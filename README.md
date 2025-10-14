@@ -11,9 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 ## 🌍 Projects and Contributions
 I enjoy working on projects that solve real-world problems or push the limits of creativity. Some areas I focus on include:
-- **Web Development**: Making a cool profile projects like GitHub one, Roblox one and Telegram.
-- **Minecraft Site**: I recreated old minecraft site! :D
-- **Data Security**: Working on solutions that enhance data privacy and security.
+- **Coding**: Making a cool polyglot programming language for myself and others [m5rcode](https://github.com/m4rcel-lol/m5rcode)
 
 ---
 
