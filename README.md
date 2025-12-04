@@ -42,7 +42,6 @@ Showcasing key repositories that define my skills and interests:
     * *Technologies:* HTML, CSS, JavaScript.
 * **m5rcode:** A personal Python utility library focused on exploring efficient coding logic and data manipulation.
     * *Technologies:* Python, Data Structures.
-* **Data Security Initiative:** Contributions to open-source projects related to data integrity and secure application development.
 
 ---
 
