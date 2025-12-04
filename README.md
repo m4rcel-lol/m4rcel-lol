@@ -46,14 +46,13 @@ Showcasing key repositories that define my skills and interests:
 
 ---
 
-### 🎶 Currently Jamming (The "Cooler" Replacement)
+### 🎵 Favorite Track
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31oc7pl32jzwozfesywmrcenaqga&cover_image=true&theme=default&bar_color=53b14f&bg_color=121212&show_offline=true&hide_status=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc7pl32jzwozfesywmrcenaqga&cover_image=true&theme=default&bar_color=53b14f&bg_color=121212&show_offline=true&hide_status=false" alt="Spotify Currently Playing" width="400" />
+  <a href="https://open.spotify.com/track/3x71QttV6J798D0itPE8UH?si=PiK3fpRQSZCT_bckJP1qPg" title="Click to listen to the track">
+    <img src="https://open.spotify.com/track/3x71QttV6J798D0itPE8UH?si=PiK3fpRQSZCT_bckJP1qPg" alt="Favorite Spotify Track" width="400" />
   </a>
 </div>
-<br>
 
 ---
 
@@ -63,7 +62,11 @@ Showcasing key repositories that define my skills and interests:
   <a href="mailto:m5r@kitties.email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://discordapp.com/users/1211021666193506457">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
+<br>
 
 ---
 
