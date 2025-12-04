@@ -15,16 +15,16 @@
 Based in **Poland**, I am a passionate developer focused on building scalable web applications and interactive experiences. My work bridges the gap between creative game modding and professional software engineering.
 
 * 🔭 **Current Focus:** Developing high-performance web applications and creating custom modifications for Minecraft/Roblox ecosystems.
-* 💡 **Core Competencies:** Frontend architecture, backend logic, and database management.
-* 🌱 **Learning:** Advanced TypeScript patterns and system design.
+* 💡 **Core Competencies:** Frontend architecture, backend logic, and database management (TypeScript, Python, MySQL).
+* 🌱 **Learning:** Advanced system design patterns for robust application architecture.
 
 ---
 
-### 💻 Tech Stack & Arsenal
+### 💻 Core Technology Stack
 
 <div align="center">
 
-| **Frontend & Languages** | **Backend & Database** | **Tools & DevOps** |
+| **Frontend** | **Backend** | **Tools & DevOps** |
 | :---: | :---: | :---: |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
@@ -34,22 +34,39 @@ Based in **Poland**, I am a passionate developer focused on building scalable we
 
 ---
 
-### 📊 GitHub Analytics
+### 🚀 Featured Projects
+
+Showcasing key repositories that define my skills and interests:
+
+* **Nostalgia Project:** A faithful recreation of the classic Minecraft website using modern Web Standards.
+    * *Technologies:* HTML, CSS, JavaScript.
+* **m5rcode:** A personal Python utility library focused on exploring efficient coding logic and data manipulation.
+    * *Technologies:* Python, Data Structures.
+* **Data Security Initiative:** Contributions to open-source projects related to data integrity and secure application development.
+
+---
+
+### 🎶 Currently Jamming (The "Cooler" Replacement)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m4rcel-lol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" height="160" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcel-lol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="160" alt="Top Languages" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31oc7pl32jzwozfesywmrcenaqga&cover_image=true&theme=default&bar_color=53b14f&bg_color=121212&show_offline=true&hide_status=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oc7pl32jzwozfesywmrcenaqga&cover_image=true&theme=default&bar_color=53b14f&bg_color=121212&show_offline=true&hide_status=false" alt="Spotify Currently Playing" width="400" />
+  </a>
 </div>
-
 <br>
 
+---
+
+### 🌐 Connect
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=m4rcel-lol&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <a href="mailto:m5r@kitties.email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <small><i>© 2025 m4rcel-lol. Crafted with code.</i></small>
+  <small><i>Crafted with code from Poland 🇵🇱.</i></small>
 </div>
