@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-Based in **Poland**, I am a passionate developer focused on building scalable web applications and interactive experiences. My work bridges the gap between creative game modding and professional software engineering.
+Based in **Poland** 🇵🇱, I am a passionate developer focused on building scalable web applications and interactive experiences. My work bridges the gap between creative game modding and professional software engineering.
 
 * 🔭 **Current Focus:** Developing high-performance web applications and creating custom modifications for Minecraft/Roblox ecosystems.
-* 💡 **Core Competencies:** Frontend architecture, backend logic, and database management (TypeScript, Python, MySQL).
+* 💡 **Core Competencies:** Frontend architecture, backend logic, and database management (**TypeScript**, **Python**, **MySQL**).
 * 🌱 **Learning:** Advanced system design patterns for robust application architecture.
 
 ---
@@ -46,12 +46,13 @@ Showcasing key repositories that define my skills and interests:
 
 ---
 
-### 🎵 Favorite Track
+### 🕹️ Favorite Games Stack
 
 <div align="center">
-  <a href="https://open.spotify.com/track/3x71QttV6J798D0itPE8UH?si=PiK3fpRQSZCT_bckJP1qPg" title="Click to listen to the track">
-    <img src="https://open.spotify.com/track/3x71QttV6J798D0itPE8UH?si=PiK3fpRQSZCT_bckJP1qPg" alt="Favorite Spotify Track" width="400" />
-  </a>
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Stack" />
+  <img src="https://img.shields.io/badge/Minecraft-36853C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Stack" />
+  <img src="https://img.shields.io/badge/Geometry%20Dash-4D88FF?style=for-the-badge&logo=geometry-dash&logoColor=white" alt="Geometry Dash Stack" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Stack" />
 </div>
 
 ---
