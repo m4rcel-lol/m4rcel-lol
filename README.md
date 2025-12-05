@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Marcel;Full+Stack+Developer;Creative+Coder" alt="Typing SVG" />
-  
-  <p align="center">
-    <a href="https://github.com/m4rcel-lol">
-      <img src="https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-  </p>
 </div>
 
 ---
