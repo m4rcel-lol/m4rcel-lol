@@ -1,24 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=560&lines=Hello%2C+I'm+Marcel;Full+Stack+Developer;Creative+Coder;TypeScript+%E2%80%A2+Python+%E2%80%A2+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Marcel;Full+Stack+Developer;Creative+Coder;TypeScript+%E2%80%A2+Python+%E2%80%A2+MySQL" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Based%20in-Poland%20%F0%9F%87%B5%F0%9F%87%B1-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Poland%20%F0%9F%87%B5%F0%9F%87%B1-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Scalable%20Web%20Apps-38BDF8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Also-Game%20Modding-22c55e?style=for-the-badge" />
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Frontend-Architecture-111827?style=for-the-badge&labelColor=0b1220" />
+  <img src="https://img.shields.io/badge/Backend-APIs%20%26%20Logic-111827?style=for-the-badge&labelColor=0b1220" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20Design-111827?style=for-the-badge&labelColor=0b1220" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Based in **Poland** 🇵🇱, I build **scalable web applications** and **interactive experiences** with a strong focus on clean architecture and performance.  
-I enjoy projects where *creative coding* meets *real-world engineering* — from web platforms to Minecraft/Roblox modding ecosystems.
+Based in **Poland** 🇵🇱, I build **scalable web applications** and **interactive experiences** with a strong focus on **performance**, **clean architecture**, and **polished UX**.  
+I like projects that blend *creative coding* with *real-world engineering* — from modern web platforms to Minecraft/Roblox modding ecosystems.
 
-- 🔭 **Current Focus:** High-performance web apps + custom mods/tools for Minecraft/Roblox.
-- 💡 **Core Competencies:** Frontend architecture, backend logic, database design (**TypeScript**, **Python**, **MySQL**).
-- 🌱 **Learning:** System design patterns and scalable application architecture.
-- ⚡ **I care about:** DX, code quality, maintainability, and shipping polished features.
+- 🔭 **Current Focus:** High-performance full-stack apps + custom mods/tools for Minecraft/Roblox.
+- 💡 **Core Competencies:** Frontend architecture, backend systems, database design (**TypeScript**, **Python**, **MySQL**).
+- 🌱 **Learning:** System design patterns (scalability, reliability, maintainability).
+- ⚡ **Style:** Practical, fast iterations — then refine until it’s clean.
 
 ---
 
@@ -42,16 +48,21 @@ Showcasing key repositories that define my skills and interests:
 
 <div align="center">
 
-| Project | What it is | Tech |
+| ⭐ Project | What it does | Tech |
 | --- | --- | --- |
-| **🧱 Nostalgia Project** | Faithful recreation of the classic Minecraft website using modern web standards and clean styling. | `HTML` `CSS` `JavaScript` |
-| **🧪 m5rcode** | Personal Python utility library for efficient logic, helpers, and data manipulation experiments. | `Python` `Data Structures` |
+| **🧱 Nostalgia Project** | A faithful recreation of the classic Minecraft website using modern web standards and clean styling. | `HTML` `CSS` `JavaScript` |
+| **🧪 m5rcode** | A personal Python utility library for efficient helpers, logic experiments, and data manipulation. | `Python` `Data Structures` |
 
 </div>
 
-> **Tip:** Add links when ready:  
-> - `https://github.com/<you>/nostalgia-project`  
-> - `https://github.com/<you>/m5rcode`
+<details>
+  <summary><b>What I enjoy building (quick snapshot)</b></summary>
+
+- ⚙️ **APIs & Backends:** authentication, rate limiting, clean routing, data validation  
+- 🧩 **Frontend systems:** reusable components, consistent UI patterns, performance optimizations  
+- 🛠️ **Game tooling:** scripts, automation, gameplay systems, modding utilities  
+
+</details>
 
 ---
 
@@ -73,7 +84,7 @@ Showcasing key repositories that define my skills and interests:
     <img src="https://img.shields.io/badge/Email-m5r%40kitties.email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discordapp.com/users/1211021666193506457">
-    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
@@ -82,5 +93,5 @@ Showcasing key repositories that define my skills and interests:
 ---
 
 <div align="center">
-  <small><i>Crafted with code from Poland 🇵🇱.</i></small>
+  <small><i>Crafted with code from Poland 🇵🇱 — built to ship.</i></small>
 </div>
