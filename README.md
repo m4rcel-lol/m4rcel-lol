@@ -22,9 +22,6 @@
 
   <br/><br/>
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
