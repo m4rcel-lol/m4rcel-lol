@@ -125,9 +125,9 @@ I build **scalable web apps**, **clean APIs**, and **interactive experiences** â
 ## ğŸŒ Connect
 
 <div align="center">
-  <a href="mailto:m5r@kitties.email">
-    <img src="https://img.shields.io/badge/Email-m5r%40kitties.email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:m5rcel@european-commission-europa.eu">
+  <img src="https://img.shields.io/badge/Email-m5rcel%40european--commission--europa.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://discordapp.com/users/1211021666193506457">
     <img src="https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
