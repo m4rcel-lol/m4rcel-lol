@@ -2,16 +2,10 @@
 
 <img src="banner.png" alt="MARCEL" width="800"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Systems+programmer+%26+self-hoster;Production-grade+code%2C+zero+placeholders;Arch+Linux+daily+driver;Currently+shipping+OpenTube+%26+CineHorizon" alt="Typing SVG"/>
-
-<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/m4rcel-lol?label=Followers&style=flat-square&color=8b5cf6&labelColor=0d1117)](https://github.com/m4rcel-lol)
 ![Profile views](https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=22d3ee&labelColor=0d1117&label=Profile+Views)
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117)
-![Zero placeholders](https://img.shields.io/badge/Build-Zero%20Placeholders-22d3ee?style=flat-square&labelColor=0d1117)
 
 </div>
 
