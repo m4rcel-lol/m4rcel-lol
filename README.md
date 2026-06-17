@@ -80,16 +80,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-m4rcel--lol-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m4rcel-lol)
 
-Also runs **The Void Cult** community and moderates the **CARTI FLAVORS** Discord server.
+Also runs **Cirql** community and is currently working on a **MPCT [Multi Purpose CLI Tool]**.
 
 </div>
 
-<br/>
 
 <div align="center">
 
 <sub>Thanks for stopping by.</sub>
-
-![Profile views](https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=8b5cf6&labelColor=0d1117&label=Visitors)
 
 </div>
