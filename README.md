@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Systems+programmer+%26+self-hoster;Production-grade+code%2C+zero+placeholders;Arch+Linux+daily+driver;Currently+shipping+OpenTube+%26+Rift" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Systems+programmer+%26+self-hoster;Production-grade+code%2C+zero+placeholders;Arch+Linux+daily+driver;Currently+shipping+OpenTube+%26+CineHorizon" alt="Typing SVG"/>
 
 <br/>
 
@@ -42,13 +42,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**OpenTube**](https://github.com/m4rcel-lol/opentube) | Self-hostable YouTube-style platform with a full transcoding pipeline and a deliberate 2006-era look | Fastify · React · PostgreSQL · FFmpeg |
-| [**CineHorizon**](https://github.com/m4rcel-lol/cinehorizon) | A clone of Netflix that is easy to selfhost and manage. Uploading videos/movies can be done thru admin panel.
-| [**AXON**](https://github.com/m4rcel-lol/axon) | A custom programming language with an LLVM backend, full toolchain, and package manager | LLVM · Compiler Design |
-| [**WinGit**](https://github.com/m4rcel-lol/wingit) | A CLI package manager for Windows | Windows · CLI |
-| [**brewski**](https://github.com/m4rcel-lol/brewski) | A Homebrew-flavored TUI for managing packages on macOS | macOS · Terminal UI |
+| [**OpenTube**](https://code.european-comission-europa.eu/m4rcel/opentube) | Self-hostable YouTube-style platform with a full transcoding pipeline and a deliberate 2006-era look | Fastify · React · PostgreSQL · FFmpeg |
+| [**CineHorizon**](https://code.european-comission-europa.eu/m4rcel/cinehorizon) | A Netflix clone built to be easy to self-host and manage, with uploads handled through an admin panel | React · Node.js · PostgreSQL · HLS |
+| [**AXON**](https://code.european-comission-europa.eu/m4rcel/axon) | A custom programming language with an LLVM backend, full toolchain, and package manager | LLVM · Compiler Design |
+| [**WinGit**](https://code.european-comission-europa.eu/m4rcel/wingit) | A CLI package manager for Windows | Windows · CLI |
+| [**brewski**](https://code.european-comission-europa.eu/m4rcel/brewski) | A Homebrew-flavored TUI for managing packages on macOS | macOS · Terminal UI |
 
-*Links assume lowercase repo slugs — swap in the real ones if any differ.*
+*Links assume a `m4rcel` namespace and lowercase repo slugs on the instance — swap in the real ones if any differ.*
 
 <br/>
 
@@ -69,8 +69,8 @@
 
 | Service | Stack | Notes |
 |---|---|---|
-| Git Instance | Gitea | `code.european-commission-europa.eu` - Self-hosted home for personal repos and collaboration |
-| Fediverse Microblogging Platform | Sharkey | `index.sark` — beautiful fork of Misskey |
+| Git forge | Forgejo | `code.european-comission-europa.eu` — self-hosted home for personal repos and collaboration |
+| Fediverse microblogging | Sharkey | `index.sark` — a fork of Misskey |
 
 <br/>
 
@@ -79,11 +79,13 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-m4rcel--lol-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m4rcel-lol)
+[![Forgejo](https://img.shields.io/badge/Forgejo-code.european--comission--europa.eu-34495E?style=flat-square&logo=forgejo&logoColor=white&labelColor=0d1117)](https://code.european-comission-europa.eu)
 
-Also runs **Cirql** community and is currently working on a **MPCT [Multi Purpose CLI Tool]**.
+Also runs the **Cirql** community and is currently building **MPCT** (Multi Purpose CLI Tool).
 
 </div>
 
+<br/>
 
 <div align="center">
 
