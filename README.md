@@ -1,140 +1,95 @@
 <div align="center">
 
-  <!-- Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Hello%2C+I'm+Marcel+%F0%9F%91%8B;Full+Stack+Developer;Creative+Coder+%26+Game+Modder;TypeScript+%E2%80%A2+Python+%E2%80%A2+MySQL" alt="Typing SVG" />
+<img src="banner.png" alt="MARCEL" width="800"/>
 
-  <br/>
+<br/>
 
-  <!-- Quick Badges -->
-  <img src="https://img.shields.io/badge/Based%20in-Poland%20%F0%9F%87%B5%F0%9F%87%B1-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibe-Clean%20%26%20Fast-22c55e?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Systems+programmer+%26+self-hoster;Production-grade+code%2C+zero+placeholders;Arch+Linux+daily+driver;Currently+shipping+OpenTube+%26+Rift" alt="Typing SVG"/>
 
-  <br/><br/>
+<br/>
 
-<a href="mailto:m5rcel@european-commission-europa.eu">
-  <img src="https://img.shields.io/badge/Email-m5rcel%40european--commission--europa.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://discordapp.com/users/1211021666193506457">
-    <img src="https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <br/><br/>
+[![GitHub followers](https://img.shields.io/github/followers/m4rcel-lol?label=Followers&style=flat-square&color=8b5cf6&labelColor=0d1117)](https://github.com/m4rcel-lol)
+![Profile views](https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=22d3ee&labelColor=0d1117&label=Profile+Views)
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white&labelColor=0d1117)
+![Zero placeholders](https://img.shields.io/badge/Build-Zero%20Placeholders-22d3ee?style=flat-square&labelColor=0d1117)
 
 </div>
 
----
+<br/>
 
-## ✨ About Me
+## About
 
-I’m **Marcel**, a developer based in **Poland 🇵🇱**.  
-I build **scalable web apps**, **clean APIs**, and **interactive experiences** — and I also love creating **mods/tools for Minecraft & Roblox**.
+- Broad-spectrum builder spanning systems programming, web development, and Linux — kernels and compilers one day, full-stack apps the next.
+- Daily-drives Arch Linux on a Lenovo Legion Y7000, with hands-on time across Bazzite, FydeOS, and Alpine too.
+- Believes in production-grade, zero-placeholder code: detailed specs in, finished implementations out.
+- Drawn to retro computing aesthetics — Windows XP/7 chrome, the 2006-era web, and CRT terminal glow.
+- Tinkers with audio synthesis on the side: bytebeat formulas and speech-synth recreations like klattsch.
+- Runs his own infrastructure end to end — mail, git hosting, and a handful of self-hosted services.
 
-- 🔭 **Current Focus:** performance-first full-stack apps + game ecosystem tooling
-- 💡 **Strengths:** frontend architecture, backend logic, database design (**TypeScript**, **Python**, **MySQL**)
-- 🌱 **Learning:** system design, scalable patterns, reliability
-- 🧠 **Mindset:** ship fast → refine until it’s clean
+<br/>
 
----
-
-## 🧩 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Frontend
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### Backend
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-
-### Tools & DevOps
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,react,nodejs,postgres,docker,bash,linux,git,lua,html,css,vite,kotlin&theme=dark" alt="Tech stack"/>
 
 </div>
 
----
+<br/>
 
-## 🎯 What I’m Into
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**OpenTube**](https://github.com/m4rcel-lol/opentube) | Self-hostable YouTube-style platform with a full transcoding pipeline and a deliberate 2006-era look | Fastify · React · PostgreSQL · FFmpeg |
+| [**CineHorizon**](https://github.com/m4rcel-lol/cinehorizon) | A clone of Netflix that is easy to selfhost and manage. Uploading videos/movies can be done thru admin panel.
+| [**AXON**](https://github.com/m4rcel-lol/axon) | A custom programming language with an LLVM backend, full toolchain, and package manager | LLVM · Compiler Design |
+| [**WinGit**](https://github.com/m4rcel-lol/wingit) | A CLI package manager for Windows | Windows · CLI |
+| [**brewski**](https://github.com/m4rcel-lol/brewski) | A Homebrew-flavored TUI for managing packages on macOS | macOS · Terminal UI |
+
+*Links assume lowercase repo slugs — swap in the real ones if any differ.*
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-| Area | I like building |
-| --- | --- |
-| **Frontend** | component systems, clean UI, responsive layouts, performance tweaks |
-| **Backend** | REST APIs, auth, validation, caching ideas, structured services |
-| **Databases** | schemas that don’t hurt later, indexes, tidy queries |
-| **Game Modding** | gameplay systems, utilities, automation, custom experiences |
+<img src="https://github-readme-stats.vercel.app/api?username=m4rcel-lol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcel-lol&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+
+<img src="https://streak-stats.demolab.com?user=m4rcel-lol&theme=tokyonight&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Self-Hosted Infrastructure
+
+| Service | Stack | Notes |
+|---|---|---|
+| Git Instance | Gitea | `code.european-commission-europa.eu` - Self-hosted home for personal repos and collaboration |
+| Fediverse Microblogging Platform | Sharkey | `index.sark` — beautiful fork of Misskey |
+
+<br/>
+
+## Connect
 
 <div align="center">
 
-| ⭐ Project | Description | Tech |
-| --- | --- | --- |
-| **🧱 Nostalgia Project** | A faithful recreation of the classic Minecraft website using modern web standards and clean styling. | `HTML` `CSS` `JavaScript` |
-| **🧪 m5rcode** | A personal Python utility library for helpers, logic experiments, and data manipulation. | `Python` `Data Structures` |
+[![GitHub](https://img.shields.io/badge/GitHub-m4rcel--lol-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/m4rcel-lol)
+
+Also runs **The Void Cult** community and moderates the **CARTI FLAVORS** Discord server.
 
 </div>
 
-<details>
-  <summary><b>✅ Ideas I can add next to these projects (to make them look “serious”)</b></summary>
-
-- a clean README template (features, screenshots, install, roadmap)
-- CI (lint/test) + formatting
-- releases + changelog
-- badges (license, stars, last commit)
-- demo links / screenshots / gifs
-
-</details>
-
----
-
-## 📌 Pinned Highlights (Aesthetic Section)
+<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Build%20Style-Clean%20Architecture-111827?style=for-the-badge&labelColor=0b1220" />
-<img src="https://img.shields.io/badge/Shipping-Fast%20Iterations-111827?style=for-the-badge&labelColor=0b1220" />
-<img src="https://img.shields.io/badge/Preference-Performance%20First-111827?style=for-the-badge&labelColor=0b1220" />
+<sub>Thanks for stopping by.</sub>
 
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=m4rcel-lol&style=flat-square&color=8b5cf6&labelColor=0d1117&label=Visitors)
 
----
-
-## 🕹️ Favorite Games Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-36853C?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Geometry%20Dash-4D88FF?style=for-the-badge&logo=geometry-dash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-<a href="mailto:m5rcel@european-commission-europa.eu">
-  <img src="https://img.shields.io/badge/Email-m5rcel%40european--commission--europa.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-  <a href="https://discordapp.com/users/1211021666193506457">
-    <img src="https://img.shields.io/badge/Discord-Message%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <small><i>Crafted with code from Poland 🇵🇱 — built to ship.</i></small>
 </div>
